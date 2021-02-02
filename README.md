@@ -1,2 +1,2 @@
-# Urna-de-vota-o
+# Urna-virtual
 Urna de votação eleitoral.
